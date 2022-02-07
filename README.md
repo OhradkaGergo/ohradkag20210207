@@ -1,4 +1,4 @@
-# ohradkag20210207
+# ohradkag20220207
 hétfő 5. óra ikt, bevezető gyakorlás
 # haza akarok menni.
 # én is
