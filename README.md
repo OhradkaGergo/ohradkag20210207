@@ -10,5 +10,4 @@ VS Code-ban lett ez leírva
 # s
 superchargers artist
 # asd
-ich bin don't német
-# huehuehuehueí
+du biszt schaße
