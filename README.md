@@ -10,4 +10,4 @@ VS Code-ban lett ez leírva
 # s
 superchargers artist
 # asd
-ee
+ich bin don't német
