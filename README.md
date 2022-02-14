@@ -5,3 +5,4 @@ hétfő 5. óra ikt, bevezető gyakorlás
 De még a bojler és a lada eladó óccsóé'!
 # wee woo
 VS Code-ban lett ez leírva
+# vösö cód
