@@ -9,3 +9,4 @@ VS Code-ban lett ez leírva
 íring on íkáté óra when it's hétfő 5. óra
 # s
 superchargers artist
+# asd
