@@ -11,6 +11,7 @@ VS Code-ban lett ez leírva
 superchargers """developer"""
 # asd
 nem (nem a Kornél vót)
+# Háv der lyú belenyúling mály szöveg? Áj will szend jú tú dzsízösz!
 # Imedzsin duing számthing in szupercsárgersz
 tru (Tru-mann)
 # ohradkag(a)20210207
