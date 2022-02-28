@@ -10,4 +10,4 @@ VS Code-ban lett ez leírva
 # s
 superchargers artist
 # asd
-du biszt schaße
+du biszt schaße (Kornél vót)
