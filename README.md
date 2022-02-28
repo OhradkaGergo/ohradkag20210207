@@ -11,3 +11,4 @@ VS Code-ban lett ez leírva
 superchargers """developer"""
 # asd
 du biszt schaße (Kornél vót)
+# Imedzsin duing számthing in szupercsárgersz
