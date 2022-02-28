@@ -10,7 +10,7 @@ VS Code-ban lett ez leírva
 # s
 superchargers """developer"""
 # asd
-du biszt schaße (Kornél vót)
+nem (nem a Kornél vót)
 # Imedzsin duing számthing in szupercsárgersz
 tru (Tru-mann)
 # ohradkag(a)20210207
